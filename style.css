@@ -79,10 +79,10 @@ footer{
 footer p{
     margin: 0;
     padding: 12px;
-    color: rgb(100,100,100);
+    color: rgb(100,100,100);r
 }
 
-footer .container{
+footer .contenedor{
     height: 150px;
     display: flex;
     justify-content: center;
